@@ -4,7 +4,8 @@
 }
 
 .warning {
-    background-color: orangered;
+    background-color: orange;
+    border: 5px inset red;
 }
 
 table {
