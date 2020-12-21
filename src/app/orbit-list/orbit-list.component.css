@@ -4,7 +4,7 @@
 }
 
 .warning {
-    background-color: orange;
+    background-color: rgb(255, 123, 0);
     border: 5px inset red;
 }
 
